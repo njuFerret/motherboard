@@ -34,6 +34,10 @@
 
 ## GIGABYTE
 
+C246-WU4
+
+![c246-wu4](./images/gigabyte/giga_C246-WU4/gigabyte_c246-wu4_v1.jpg)
+
 
 
 
