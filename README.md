@@ -32,7 +32,7 @@
 ![启天M4300面板插槽](./images/lenovo/lenovo_qitian-m4300-front-pannel-slot.png)
 
 
-## GiGA
+## GIGABYTE
 
 
 
