@@ -24,8 +24,12 @@
 
 
 联想启天M4300
-![lenovo 启天 M4300](./images/lenovo/lenovo_qitian-m4300.jpg)
+
+![lenovo 启天 M4300](./images/lenovo/lenovo_qitian_m4300.jpg)
+
 ![lenovo 启天 M4300](./images/lenovo/lenovo_qitian-m4300-pinout.png)
+
+![启天M4300面板插槽](./images/lenovo/lenovo_qitian-m4300-front-pannel-slot.png)
 
 
 ## GiGA
