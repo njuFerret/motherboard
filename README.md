@@ -24,12 +24,12 @@
 
 
 联想启天M4300
-
-![lenovo 启天 M4300](./images/lenovo/lenovo_qitian-m4300.png)
+![lenovo 启天 M4300](./images/lenovo/lenovo_qitian-m4300.jpg)
+![lenovo 启天 M4300](./images/lenovo/lenovo_qitian-m4300-pinout.png)
 
 
 ## GiGA
 
-    
+
 
 
