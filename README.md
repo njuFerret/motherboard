@@ -38,6 +38,11 @@ C246-WU4
 
 ![c246-wu4](./images/gigabyte/giga_C246-WU4/gigabyte_c246-wu4_v1.jpg)
 
+[c246-wu4](./images/gigabyte/giga_C246-WU4/server_manual_c246-wu4_sc_0417.pdf)
 
 
+## ASUS
 
+![TUF_B360M-PLUS_GAMING_S](./images/asus/TUF_B360M-PLUS_GAMING_S.jpg)
+
+[TUF_B360M-PLUS_GAMING_S](./images/asus/TUF_B360M-PLUS_GAMING_S_full.pdf)
